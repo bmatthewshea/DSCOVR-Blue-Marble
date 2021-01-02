@@ -11,3 +11,5 @@ Python script to find images using the "Deep Space Climate Observatory" (DSCOVR)
 5. URL(s) will then appear for the given date.
 
 <img src="https://user-images.githubusercontent.com/984097/63964625-0c768380-ca87-11e9-9ae3-d3e253719c24.png" alt="Example Output">
+
+Original location: https://gist.github.com/bmatthewshea/4969551e0eed474bc5a4cf24d9659ad4
